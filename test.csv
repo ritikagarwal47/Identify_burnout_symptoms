@@ -1,7 +1,7 @@
 Employee ID,Date of Joining,Gender,Company Type,WFH Setup Available,Designation,Resource Allocation,Mental Fatigue Score
 fffe31003300390039003000,2008-12-10,Female,Service,No,2.0,5.0,7.7
 fffe31003300310037003800,2008-08-14,Female,Product,Yes,1.0,2.0,5.2
-fffe33003400380035003900,2008-11-13,Male,Product,Yes,1.0,3.0,5.9
+
 fffe3100370039003200,2008-02-07,Female,Service,No,3.0,6.0,4.6
 fffe32003600390036003700,2008-07-17,Female,Product,No,2.0,5.0,6.4
 fffe3600390032003200,2008-09-19,Male,Product,No,3.0,5.0,6.5
